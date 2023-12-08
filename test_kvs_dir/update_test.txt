@@ -1,0 +1,3 @@
+animal:dog
+something:otherthing
+color:yellow
