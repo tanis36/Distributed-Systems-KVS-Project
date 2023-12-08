@@ -1,5 +1,5 @@
 # Distributed-Systems-KVS-Project
-A project for a Distributed Systems class that implements a persistent key value store as a C++ library.
+A group project for a Distributed Systems class that implements a persistent key value store as a C++ library.
 
 This library exposes a small set of functions that a client program will use to create and manage a named KVS:
 
